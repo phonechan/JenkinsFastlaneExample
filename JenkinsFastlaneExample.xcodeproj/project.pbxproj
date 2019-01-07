@@ -123,6 +123,7 @@
 				TargetAttributes = {
 					4D97E7F21E8E55DC001B7025 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 2VKY6QPH98;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -336,6 +337,7 @@
 			baseConfigurationReference = B5AA2522D78430D329802767 /* Pods-JenkinsFastlaneExample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2VKY6QPH98;
 				INFOPLIST_FILE = JenkinsFastlaneExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cherrmann.JenkinsFastlaneExample;
@@ -349,6 +351,7 @@
 			baseConfigurationReference = B947906690CBAFFE96FB3117 /* Pods-JenkinsFastlaneExample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2VKY6QPH98;
 				INFOPLIST_FILE = JenkinsFastlaneExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cherrmann.JenkinsFastlaneExample;
@@ -376,6 +379,7 @@
 				4D97E8071E8E55DC001B7025 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
