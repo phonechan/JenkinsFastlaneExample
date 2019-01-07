@@ -3,7 +3,7 @@ fastlane_version "2.24.0"
 default_platform :ios
 
 lane :beta do
-  build_app(scheme: "MJenkinsFastlaneExample"
-            workspace:"JenkinsFastlaneExample.xcworkspace",
+  build_app(scheme: "JenkinsFastlaneExample"
+            workspace: "JenkinsFastlaneExample.xcworkspace",
             include_bitcode: true)
 end
